@@ -1,0 +1,20 @@
+.honeydew-bg{
+    background-color: #f0fff0;
+}
+.navbar-logo{
+    width: 198.07px;
+    height: 59px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.navbar-cats{
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.navitems-margin{
+    margin-left: 35px;
+}
+.login-btn{
+    border-radius: 33px;
+    background-color: #21B573;
+}
