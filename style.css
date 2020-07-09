@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .container{
-    margin-bottom: 80px;
+    padding-bottom: 70px;
 }
 .honeydew-bg{
     background-color: #f0fff0;
@@ -10,9 +10,8 @@ body{
 .navbar-logo{
     width: 198.07px;
     height: 59px;
-    margin-left: 30px;
     margin-top: 30px;
-}
+} 
 .navbar-cats{
     margin-right: 30px;
     margin-top: 30px;
@@ -20,7 +19,18 @@ body{
 .navitems-margin{
     margin-left: 35px;
 }
-.login-btn{
+.green-btn{
     border-radius: 33px;
     background-color: #21B573;
 }
+.img-padding{
+    padding-top: 50px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightblue;
+}
+/* #book-cat{
+     height: 83px; 
+} */
