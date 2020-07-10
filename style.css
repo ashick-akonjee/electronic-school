@@ -26,11 +26,32 @@ body{
 .img-padding{
     padding-top: 50px;
 }
-.card{
+#book-img{
+     height: 180px; 
+} 
+.book-cat, .students-cat, .test-cat, .students2-cat{
+    background-color: #F8FFFB;
     border: none;
     border-radius: 10px;
-    box-shadow: 10px 10px 10px lightblue;
+
 }
-/* #book-cat{
-     height: 83px; 
-} */
+.card:hover{
+    -webkit-box-shadow: -1px 9px 40px -12px darkgray;
+    -moz-box-shadow: -1px 9px 40px -12px darkgray;
+    box-shadow: -1px 9px 40px -12px darkgray;;
+}
+.card-title{
+    color: #413960;
+}
+.footer-left{
+    margin-right: 20px;
+}
+.footer-right{
+    margin-left: 20px;
+}
+.card-psychology{
+    padding: 5px;
+}
+.online-courses h2{
+    color: #413960;
+}
