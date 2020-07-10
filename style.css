@@ -3,7 +3,7 @@ body{
 }
 .container{
     padding-bottom: 70px;
-}
+} 
 .honeydew-bg{
     background-color: #f0fff0;
 }
@@ -23,6 +23,9 @@ body{
     border-radius: 33px;
     background-color: #21B573;
 }
+.middle-cat{
+    margin-top: 50px;
+}
 .img-padding{
     padding-top: 50px;
 }
@@ -33,7 +36,6 @@ body{
     background-color: #F8FFFB;
     border: none;
     border-radius: 10px;
-
 }
 .card:hover{
     -webkit-box-shadow: -1px 9px 40px -12px darkgray;
@@ -43,15 +45,53 @@ body{
 .card-title{
     color: #413960;
 }
-.footer-left{
+.card-footer{
+    border-style: none;
+    margin-top: 15px;
+}
+.card-footer-left{
     margin-right: 20px;
 }
-.footer-right{
+.card-footer-right{
     margin-left: 20px;
 }
 .card-psychology{
     padding: 5px;
 }
-.online-courses h2{
+.online-courses h2, .testimonial h2{
     color: #413960;
+    margin-bottom: 50px;
 }
+.testimonial-img{
+    width: 120px;
+    box-shadow: 5px 5px 8px lightblue;    
+}
+.testimonial-txt{
+    margin-right: 200px;
+}
+.list-styling{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.list-items{
+    color: white;
+}
+.footer-area h2, .footer-area h3, .footer-area h4, .footer-area h6, .footer-area p{
+    color: white;
+
+}
+.footer-container{
+    padding-top: 100px;
+}
+.subscribe-content{
+    padding: 20px;
+}
+#subscribe-btn{
+    border-radius: 33px;
+    background-color: #21B573;
+    margin-top: 15px;
+}
+footer{
+    margin-top: 30px;
+} 
